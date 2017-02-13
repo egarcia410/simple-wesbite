@@ -1,7 +1,7 @@
 # Simple Website Design
 WGU Web Developement Fundamentals
 
-View website [here](garc29.mystudenthosting.com)
+View website [here](http://egarc29.mystudenthosting.com/)
 
 ## Topics Covered
 1. HTML Fundamentals:
