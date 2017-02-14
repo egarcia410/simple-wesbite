@@ -138,9 +138,9 @@ html {
   width: 200px;
   float: right;
   z-index: 3;
-  position: absolute;
-  right: 5px;
-  top: 4.2em;
+  position: relative;;
+  right: 15px;
+  top: -25em;
 }
 
 /******************* Services Section *******************/
